@@ -1,8 +1,8 @@
-# tugas_api_flutter
+# TUGAS PRAKTIKUM CONNECT API
 
-A new Flutter project.
-
-## Getting Started
+## NAMA: MOCH. DZAKY MUSUADDAD
+## NIM: 362358302011
+## KELAS: 2A TRPL
 
 This project is a starting point for a Flutter application.
 
