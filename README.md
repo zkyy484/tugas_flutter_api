@@ -25,7 +25,7 @@
 
 2. Class DetailHalaman
    <img width="959" alt="image" src="https://github.com/user-attachments/assets/a80ee226-95ac-4d33-b0b6-f8061ee3f581" />
-   - Keterangan: 
+   - Keterangan: Pada folder screen terdapat file detail_halaman.dart yang digunakan untuk menampilkan halaman detail dari cryptocurrency. Class DetailHalaman adalah widget yang digunakan untuk menampilkan detail tentang cryptocurrecy dalam sebuah halaman yang dibungkus dalam sebuah card. Data tersebut di dapat dari properti coin, diantaranya nama, foto, harga terbaru, peringkat, dan yang lainnya. 
 
 3. Class DaftarList
    <img width="959" alt="image" src="https://github.com/user-attachments/assets/99c13fd5-02f0-45ce-bd16-f455962ed17f" />
