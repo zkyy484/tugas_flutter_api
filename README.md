@@ -19,6 +19,9 @@
    <img width="266" alt="image" src="https://github.com/user-attachments/assets/cee990b6-6b5b-446f-8189-97dfe371a912" />
 
 ### B. CODE
+1. Class Crypto
+   <img width="959" alt="image" src="https://github.com/user-attachments/assets/e47ef234-10d0-4286-a57b-23ac68d02767" />
+
 
 
 
