@@ -4,13 +4,13 @@
 ## NIM: 362358302011
 ## KELAS: 2A TRPL
 
-This project is a starting point for a Flutter application.
+1. Tampilan List
+   <img width="268" alt="image" src="https://github.com/user-attachments/assets/945ce885-5e9a-427f-9319-f098c82ec8f9" />
 
-A few resources to get you started if this is your first Flutter project:
+2. Pencarian
+   <img width="268" alt="image" src="https://github.com/user-attachments/assets/1deceabb-8a49-4a17-a38f-ee06d336d397" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Halaman Detail
+   <img width="266" alt="image" src="https://github.com/user-attachments/assets/cee990b6-6b5b-446f-8189-97dfe371a912" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
