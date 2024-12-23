@@ -21,11 +21,11 @@
 ### B. CODE
 1. Class Crypto
    <img width="959" alt="image" src="https://github.com/user-attachments/assets/e47ef234-10d0-4286-a57b-23ac68d02767" />
-   - Keterangan:
+   - Keterangan: Pada folder model terdapat file item.dart yang digunakan untuk menyimpan data dari api yang akan diambil/digunakan. Class crypto adlah kelas yang digunakan untuk merepresentasikan data pada api yang akan digunakan. Pada class ini juga terdapat beberapa properti yang digunakan sebagai variable penyimpan dari masing-masing properti/item, disitu juga terdapat fungsi final yang menunjukkan bahwa properti tersebut tidak dapat diubah setelah diinisiasikan.
 
 2. Class DetailHalaman
    <img width="959" alt="image" src="https://github.com/user-attachments/assets/a80ee226-95ac-4d33-b0b6-f8061ee3f581" />
-   - Keterangan:
+   - Keterangan: 
 
 3. Class DaftarList
    <img width="959" alt="image" src="https://github.com/user-attachments/assets/99c13fd5-02f0-45ce-bd16-f455962ed17f" />
