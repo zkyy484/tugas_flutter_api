@@ -4,6 +4,8 @@
 ## NIM: 362358302011
 ## KELAS: 2A TRPL
 
+
+**TAMPILAN**
 1. Tampilan List
    
    <img width="268" alt="image" src="https://github.com/user-attachments/assets/945ce885-5e9a-427f-9319-f098c82ec8f9" />
