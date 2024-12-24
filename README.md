@@ -29,15 +29,15 @@
 
 3. Class DaftarList
    <img width="959" alt="image" src="https://github.com/user-attachments/assets/99c13fd5-02f0-45ce-bd16-f455962ed17f" />
-   - Keterangan:
+   - Keterangan: Class DaftarList komponen yang digunakan untuk menampilkan daftar crypto. Menggunakan StatefulWidget dikarenakan data dan tampilan dapat berubah, seperti saat akan melakukan pengurutan dan pencarian. Terdapat juga beberapa variable state yakni _datacrypto yang digunakan untuk menyimpan data crypto yang diambil dari API, _pencarian digunakan untuk melakukan pencarian beradasarkan nama, dan _sortingdata digunakan untuk menentukan atau merubah urutan harga terendah dan tertinggi. InitState juga diperlukan untuk memanggil fecthCryptoData yang dapat memuat data crypto dari API. Adapun fungsi future yang digunakan untuk mendapatkan data crypto dengan memanggil ApiService.fecthCryptoData. Lalu ada scaffold yang digunakan sebagai struktur UI yang nantinya akan menampilkan halaman dari class DaftarList.
 
 4. Class ApiService
    <img width="959" alt="image" src="https://github.com/user-attachments/assets/9d121605-d5c0-48f5-aa8d-1610d94bfff5" />
-   - Keterangan:
+   - Keterangan: Class ApiService merupakan kelas yang berfungsi untuk mengambil data dari API. Mengguankan Uri.parse untuk mengonversi string URL menjadi objek Uri. http.get(url) digunakan untuk mengirimkan permintaan GET ke URL unnntuk mengambil data. diikuti dengan await untuk menunggu operasi dari asynchronous. Lalu membuat sebuah method response.statusCode untuk mengecek apakah permintaan berhasil atau tidak. Dalam method tersebut juga terdapat json.decode(response.body) yang berfungsi untuk mengonversi string JSON menjadi objek Dart.
 
 5. Class WidgetCrypto
    <img width="959" alt="image" src="https://github.com/user-attachments/assets/61c23487-3481-47ec-be45-43f24ed36834" />
-   - Keterangan:
+   - Keterangan: 
 
 6. File main.dart
    <img width="959" alt="image" src="https://github.com/user-attachments/assets/d29eb175-0132-4e97-87c8-f972d467c73c" />
